@@ -30,4 +30,5 @@ The repository is organized following clean development standards to separate co
 │   └── load.py             # Handles writing structured data into targets
 ├── main.py                 # Core entry point to trigger the whole automation pipeline
 ├── requirements.txt        # Project dependencies and environment libraries
-└── products.csv            # Sample dataset utilized for processing
+├── products.csv            # Sample dataset utilized for processing
+└── submission.txt          # Step-by-step user guide and project documentation
